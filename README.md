@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [Web Devlopment][2.1] Web Development
+- 🔭 I’m currently working on ... ![Web Devlopment][2.1] Web Development
 - 🌱 I’m currently learning ... ReactJS
 - 👯 I’m looking to collaborate on ... Web development Projects
 - 🤔 I’m looking for help with ... Backend Development
