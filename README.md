@@ -15,7 +15,7 @@ You can find me on 📫 ... [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
 [1.2]:  https://github.com/imInde09/imInde09/blob/main/twitter%20(2).png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]:https://github.com/imInde09/imInde09/blob/main/linkedin.png
 
 <!-- Links to your social media accounts -->
 
