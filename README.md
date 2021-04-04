@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Web development Projects
 - 🤔 I’m looking for help with ...Backend Development
 - 💬 Ask me about ...Anything
-- You can find me on 📫 ... [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- 📫 You can find me on ...[![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Actual text -->
 
 
