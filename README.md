@@ -8,10 +8,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Web development Projects
 - 🤔 I’m looking for help with ...Backend Development
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [LinkedIn]www.linkedin.com/in/prathameshinde
 <!-- Actual text -->
 
-You can find me on 📫 ...[![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on 📫 ... [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
