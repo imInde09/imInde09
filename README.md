@@ -14,7 +14,7 @@ You can find me on 📫 ... [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]:  https://www.flaticon.com/free-icon/twitter_733579?related_id=733579&origin=pack(twitter icon without padding)
+[1.2]:  https://www.flaticon.com/free-icon/twitter_733579?related_id=733579&origin=pack
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
