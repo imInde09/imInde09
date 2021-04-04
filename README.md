@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/prathamesho
-[2]:www.linkedin.com/in/prathameshinde
+[2]: https://www.linkedin.com/in/prathameshinde/
  
 
