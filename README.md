@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [1.2]:  https://github.com/imInde09/imInde09/blob/main/twitter%20(2).png
 [2.2]:https://github.com/imInde09/imInde09/blob/main/linkedin.png
-[2.1]:
+[2.1]:https://github.com/imInde09/imInde09/blob/main/web-development.png
 
 <!-- Links to your social media accounts -->
 
