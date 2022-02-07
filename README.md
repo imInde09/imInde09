@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Actual text -->
-![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=imInde09&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imInde09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=imInde09&count_private=true)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imInde09&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Icons -->
 
