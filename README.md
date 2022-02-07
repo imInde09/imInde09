@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Actual text -->
+![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=imInde09&count_private=true)
 [![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iminde09)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 
