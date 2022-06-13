@@ -1,5 +1,10 @@
 <!-- ### Hi there 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!;My+name+is+Prathamesh;I+am+Front-End+Developer+from+India)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="#">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!;My+name+is+Prathamesh;I+am+Front-End+Developer+from+India" />
+  </a>
+  <br>
+</h1>
 
 Here are some ideas to get you started:
 
