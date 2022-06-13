@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&lines=Hi+there!;My+name+is+Prathamesh;I+am+Front-End+Developer+from+India)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
