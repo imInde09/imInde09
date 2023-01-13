@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... TypeScript
 - 💬 Ask me about ... Anything
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<h3>Resume:</h3>https://registry.jsonresume.org/imInde09
 <!-- Actual text -->
 ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=imInde09&count_private=true)
 
