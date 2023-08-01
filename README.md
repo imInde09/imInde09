@@ -1,10 +1,8 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">
-  <a href="#">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!;My+name+is+Prathamesh;I+am+Front-End+Developer+from+India" />
-  </a>
-  <br>
-</h1>
+<h1 align="center">Hi 👋, I'm Prathamesh Inde</h1>
+<h3 align="center">A passionate frontend developer & cloud Engineer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iminde09&label=Profile%20views&color=0e75b6&style=flat" alt="iminde09" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
