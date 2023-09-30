@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Prathamesh Inde and I'm a Front-End Engineer, from India</h2>
+<!-- ### Hi there 👋 -->
+<h1 align="center">
+  <a href="#">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!;My+name+is+Prathamesh;I+am+Front-End+Developer+from+India" />
+  </a>
+</h1>
 
 ###
 
