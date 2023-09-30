@@ -46,7 +46,7 @@
   <a href="https://www.youtube.com/@prathamesh-inde/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="prathameshinde86@gmail.com" target="_blank">
+  <a href="mailto:prathameshinde86@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/prathameshinde/" target="_blank">
